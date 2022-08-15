@@ -1,7 +1,7 @@
 # Supertheme Polybar
 Personal theme for polybar
 
-[SuperTheme!!!!](https://raw.githubusercontent.com/axdevil/supertheme-polybar/main/assets/supertheme.png)
+![SuperTheme!!!!](https://raw.githubusercontent.com/axdevil/supertheme-polybar/main/assets/supertheme.png)
 
 ## Contenido
 - [Dependencias](#dependencias)
@@ -43,6 +43,8 @@ Puedes instalarlas usando alguna aplicacion como [Fonts](https://apps.gnome.org/
 [Github de Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/)
 
 ### MPD
+
+![MPD Module!!!!!](https://raw.githubusercontent.com/axdevil/supertheme-polybar/main/assets/mpd-module.png)
 
 Para que el modulo central de musica funcione se necesita de [MPD](https://www.musicpd.org/) funcionando y corriendo en el sistema, lo puede instalar de la siguiente manera:
 
