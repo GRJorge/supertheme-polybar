@@ -108,17 +108,17 @@ Si aun no lo tiene hecho y desea que Polybar se ejecute al inicio del sistema:
 Si usa BSPWM agrege lo siguiente en su `bspwmrc`:
 
 ```bash
-bash .config/polybar/launch.sh
+bash ~/.config/polybar/launch.sh
 ```
 
 Si usa I3WM agregue lo siguiente a su configuracion:
 
 ```bash
-exec_always --no-startup-id bash .config/polybar/launch.sh
+exec_always --no-startup-id bash ~/.config/polybar/launch.sh
 ```
 
 Si no usa ninguno de estos tambien podria agregar la siguiente linea al archivo `.xprofile` que se encuentra en su `$HOME/`
 
 ```bash
-exec bash .config/polybar/launch.sh
+exec bash ~/.config/polybar/launch.sh
 ```
