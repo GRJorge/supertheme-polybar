@@ -1,6 +1,8 @@
 # Supertheme Polybar
 Personal theme for polybar
 
+[SuperTheme!!!!](https://raw.githubusercontent.com/axdevil/supertheme-polybar/main/assets/supertheme.png)
+
 ## Contenido
 - [Dependencias](#dependencias)
   - [Polybar](#polybar)
